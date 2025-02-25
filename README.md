@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo Geovana, tenho 18 anos, nasci em Hortolândia/SP e atualmente sou aprendiz  na Bosch, Campinas/SP.<br>•👩‍🎓Sou formada em T.I. pela ETEC de Hortolândia,<br>•💻Encerro o curso de DS pelo SENAI "Roberto Mange" no segundo semestre de 2025,<br>•👩‍💻Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela USF 2/5.<br>
+Me chamo Geovana, tenho 18 anos, nasci em Hortolândia/SP e atualmente sou aprendiz  na Bosch, Campinas/SP.<br>•👩‍🎓Sou formada em T.I. pela ETEC de Hortolândia,<br>•💻Encerro o curso de DS pelo SENAI "Roberto Mange" no segundo semestre de 2025,<br>•👩‍💻Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela USF 3/5.<br>
 
 
 # 💻 Tech Stack:
